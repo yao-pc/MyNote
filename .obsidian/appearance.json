@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "interfaceFontFamily": "微软雅黑",
+  "textFontFamily": "微软雅黑",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "right",
+    "2",
+    "left1"
+  ]
+}
