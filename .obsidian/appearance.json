@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "interfaceFontFamily": "微软雅黑",
   "textFontFamily": "微软雅黑",
   "baseFontSize": 20,
@@ -9,5 +9,5 @@
     "2",
     "left1"
   ],
-  "accentColor": "#d07cfe"
+  "accentColor": ""
 }
