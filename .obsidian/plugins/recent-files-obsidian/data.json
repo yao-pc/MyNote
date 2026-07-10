@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Pycharm快捷键",
-      "path": "python/Pycharm快捷键.md"
+      "basename": "python笔记",
+      "path": "python/python笔记.md"
     },
     {
       "basename": "办公",
       "path": "办公.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "数据库",
+      "path": "数据库.base"
     },
     {
-      "basename": "居左显示",
-      "path": "Obsidian/居左显示.md"
+      "basename": "GIT",
+      "path": "python/GIT.md"
     },
     {
       "basename": "obsidian笔记如何关联git仓库",
@@ -25,8 +25,16 @@
       "path": "Obsidian/拓展插件.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
+      "basename": "VSCode快捷键",
+      "path": "python/VSCode快捷键.md"
+    },
+    {
+      "basename": "Pycharm快捷键",
+      "path": "python/Pycharm快捷键.md"
+    },
+    {
+      "basename": "居左显示",
+      "path": "Obsidian/居左显示.md"
     },
     {
       "basename": "important",
