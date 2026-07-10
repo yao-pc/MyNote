@@ -50,10 +50,8 @@ git push -u origin main
         - **启动时拉取**：开启 `Pull on startup`，这样每次打开 Obsidian 都会自动从云端拉取最新内容，避免冲突[](https://www.cnblogs.com/lvwd/p/19658082#commentform)[](https://www.rongpm.com/column/obsidian-git-sync-3611.html)。
             
 4. **测试与验证**
-    
     - 你可以试着新建一篇笔记，然后等几分钟（或点击左侧边栏的“源代码管理”图标，手动点击 Commit-and-sync 按钮）[](https://www.cnblogs.com/lvwd/p/19658082#commentform)。
-        
     - 去 GitHub 网页上刷新看看，如果笔记出现了，就说明关联和同步成功了！
-<mark style="background:#b1ffff">10 min 后会显示此代码吗</mark>
+
 
 
