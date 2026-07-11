@@ -57,7 +57,7 @@ CommonFunction.crc_16([0 x 01, 0 x 02, 0 x 03]) # 内部使用 cls.table_crc_hi/
 ✅ 可以访问 cls (类属性)
 
 📞 调用方式：obj.instance_method(data)
-![](assets/python笔记/file-20260710180254336.png)
+![617](assets/python笔记/file-20260710180254336.png)
 
 #### @abstractmethod
 
