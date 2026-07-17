@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "python笔记",
-      "path": "python/python笔记.md"
-    },
-    {
       "basename": "未命名",
       "path": "note01_草稿/未命名.md"
+    },
+    {
+      "basename": "python笔记",
+      "path": "python/python笔记.md"
     },
     {
       "basename": "居左显示",
@@ -42,7 +42,7 @@
     },
     {
       "basename": "代码",
-      "path": "代码/代码.md"
+      "path": "note02_代码/代码.md"
     },
     {
       "basename": "obsidian笔记如何关联git仓库",
