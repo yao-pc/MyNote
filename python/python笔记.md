@@ -62,3 +62,13 @@ CommonFunction.crc_16([0 x 01, 0 x 02, 0 x 03]) # 内部使用 cls.table_crc_hi/
 #### @abstractmethod
 
 在 Python 中，`@abstractmethod` 是 `abc`（Abstract Base Class，抽象基类）模块提供的一个装饰器，用于声明抽象方法。抽象方法只有方法签名，没有具体实现（或仅提供可被子类覆盖的默认实现）。包含抽象方法的类称为抽象类，它不能被直接实例化，子类必须实现所有抽象方法后才能创建实例。
+
+保留两位小数
+f-string：result = f"{num:.2 f}"
+result = "{:.2 f}".format(num)
+result = round(num, 2)  # 注意：可能不是"保留"而是四舍五入
+% 格式化：result = "%.2 f" % num
+Decimal（高精度场景）
+from decimal import Decimal, ROUND_HALF_UP
+num = Decimal('3.14159')
+result = num.quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)
