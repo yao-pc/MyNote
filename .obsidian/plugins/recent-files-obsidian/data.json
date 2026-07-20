@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "GIT推送后发现问题",
+      "path": "note03_GIT/GIT推送后发现问题.md"
+    },
+    {
+      "basename": "GIT",
+      "path": "note03_GIT/GIT.md"
+    },
+    {
+      "basename": "代码",
+      "path": "note02_代码/代码.md"
+    },
+    {
       "basename": "未命名",
       "path": "note01_草稿/未命名.md"
     },
@@ -35,14 +47,6 @@
     {
       "basename": "Pycharm快捷键",
       "path": "python/Pycharm快捷键.md"
-    },
-    {
-      "basename": "GIT",
-      "path": "python/GIT.md"
-    },
-    {
-      "basename": "代码",
-      "path": "note02_代码/代码.md"
     },
     {
       "basename": "obsidian笔记如何关联git仓库",
