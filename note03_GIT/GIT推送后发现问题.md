@@ -95,3 +95,6 @@ application-dev.yml  # 本地开发配置
 
 如果文件**已经被 Git 追踪**，仅仅加入 `.gitignore` 是无效的，必须先执行：
 git rm --cached <文件名>   # 然后重新提交
+
+如果你的代码已经 `git commit` 了，但**还没有** `git push`，直接执行：
+git reset --soft HEAD~1
