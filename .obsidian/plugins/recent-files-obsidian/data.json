@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "草稿",
+      "path": "note01_草稿/草稿.md"
+    },
+    {
       "basename": "GIT拉取分支",
       "path": "note03_GIT/GIT拉取分支.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "GIT",
       "path": "note03_GIT/GIT.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "note01_草稿/未命名.md"
     },
     {
       "basename": "代码",
