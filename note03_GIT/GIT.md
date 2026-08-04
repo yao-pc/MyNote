@@ -37,3 +37,7 @@ git branch -M main
 git push -u origin main
 ```
 sigen上库令牌：z-e6scurzYxDAb65hTJ6
+
+git 修改账号信息
+git config --global user.name "你的名字"
+git config --global user.email "你的邮箱@company.com"
