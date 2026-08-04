@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "git如何将本地代码推送到指定分支上",
-      "path": "note03_GIT/git如何将本地代码推送到指定分支上.md"
+      "basename": "git如何撤回已经push的代码",
+      "path": "note03_GIT/git如何撤回已经push的代码.md"
     },
     {
       "basename": "GIT推送后发现问题解决方法",
       "path": "note03_GIT/GIT推送后发现问题解决方法.md"
     },
     {
-      "basename": "GIT",
-      "path": "note03_GIT/GIT.md"
+      "basename": "git如何将本地代码推送到指定分支上",
+      "path": "note03_GIT/git如何将本地代码推送到指定分支上.md"
     },
     {
       "basename": "GIT拉取分支",
       "path": "note03_GIT/GIT拉取分支.md"
+    },
+    {
+      "basename": "GIT",
+      "path": "note03_GIT/GIT.md"
     },
     {
       "basename": "办公",

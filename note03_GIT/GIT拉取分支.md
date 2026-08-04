@@ -53,9 +53,6 @@ git checkout -b my-dev-branch
 > 现在你的本地 `my-dev-branch` 分支代码就和基础分支一模一样，接下来在这里写你的业务代码
 
 ## 3. 修改完代码后，提交本地
-
-bash
-
 ```
 #查看哪些文件被修改
 git status
@@ -68,9 +65,6 @@ git commit -m "feat:这里填写本次修改内容"
 ```
 
 ## 4. 将本地新建分支推送到远程仓库（上库，网页就能看到这个新分支）
-
-bash
-
 ```
 git push -u origin my-dev-branch
 ```
