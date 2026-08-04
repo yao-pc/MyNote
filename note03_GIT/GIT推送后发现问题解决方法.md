@@ -138,3 +138,13 @@ git reset --soft HEAD~3
 git reflog
 找到你 commit 时的那个哈希值（例如 abc 123），然后重置回去
 git reset --hard abc 123
+
+```
+234
+```
+```
+erre
+wq
+```
+
+
