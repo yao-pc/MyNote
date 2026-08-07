@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "note00_代办",
+      "path": "note00_代办.md"
+    },
+    {
       "basename": "GIT推送后发现问题解决方法",
       "path": "note03_GIT/GIT推送后发现问题解决方法.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "note01_草稿/草稿.md"
     },
     {
       "basename": "概要",
@@ -39,10 +47,6 @@
     {
       "basename": "2026-08-03 NEO自杀信号检测流程优化",
       "path": "上位机开发/2026-08-03 NEO自杀信号检测流程优化.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "note01_草稿/草稿.md"
     },
     {
       "basename": "代码",
