@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GIT",
+      "path": "note03_GIT/GIT.md"
+    },
+    {
       "basename": "note00_代办",
       "path": "note00_代办.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "概要",
       "path": "上位机开发/概要.md"
-    },
-    {
-      "basename": "GIT",
-      "path": "note03_GIT/GIT.md"
     },
     {
       "basename": "git如何撤回已经push的代码",
