@@ -14,7 +14,8 @@
 | `method_calls`                         | 所有方法调用记录（只读）                                           | `mock.method_calls`              |
 | `reset_mock()`                         | 清空调用记录                                                 | `mock.reset_mock()`              |
 | now_time.strftime("%Y-%m-%d %H:%M:%S") | 格式化时间                                                  |                                  |
-| sys.stdout.flush()                     |                                                        |                                  |
+| sys.stdout.flush()                     | 强制把输出缓冲区的内容立即写到终端/文件，不等缓冲区满或程序结束。                      |                                  |
+|                                        |                                                        |                                  |
 ## @staticmethod
 
 @staticmethod 是 Python 的静态方法装饰器，表示这个方法不需要访问实例属性或类属性
