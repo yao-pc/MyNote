@@ -1,19 +1,20 @@
-|                         |                                                        |                                  |
-| ----------------------- | ------------------------------------------------------ | -------------------------------- |
-| 方法                      | 描述                                                     | 备注                               |
-| `patch.object`          | `unittest.mock` 模块中的函数，用于临时替换指定对象的某个属性或方法              | patch补丁                          |
-| `with ... :`            | 上下文管理器，确保测试代码执行完后自动恢复原值                                | `with` 代码块内部的值被临时改写              |
-| MagicMock               | 是“有求必应”的——你访问任何不存在的属性或方法，它都会自动创建并返回一个新的 `MagicMock` 对象 |                                  |
-| `MagicMock` 有一些预留的特殊属性名 |                                                        |                                  |
-| `return_value`          | 设置调用 Mock 对象时的返回值                                      | `mock.get.return_value = 200`    |
-| `side_effect`           | 设置调用时的副作用（异常、多返回值、函数）                                  | `mock.post.side_effect = [1, 2]` |
-| `call_count`            | 记录被调用的次数（只读）                                           | `print(mock.call_count)`         |
-| `called`                | 是否被调用过（只读）                                             | `if mock.called:`                |
-| `call_args`             | 最后一次调用的参数（只读）                                          | `mock.call_args`                 |
-| `call_args_list`        | 所有调用记录（只读）                                             | `mock.call_args_list`            |
-| `method_calls`          | 所有方法调用记录（只读）                                           | `mock.method_calls`              |
-| `reset_mock()`          | 清空调用记录                                                 | `mock.reset_mock()`              |
-|                         |                                                        |                                  |
+|                                        |                                                        |                                  |
+| -------------------------------------- | ------------------------------------------------------ | -------------------------------- |
+| 方法                                     | 描述                                                     | 备注                               |
+| `patch.object`                         | `unittest.mock` 模块中的函数，用于临时替换指定对象的某个属性或方法              | patch补丁                          |
+| `with ... :`                           | 上下文管理器，确保测试代码执行完后自动恢复原值                                | `with` 代码块内部的值被临时改写              |
+| MagicMock                              | 是“有求必应”的——你访问任何不存在的属性或方法，它都会自动创建并返回一个新的 `MagicMock` 对象 |                                  |
+| `MagicMock` 有一些预留的特殊属性名                |                                                        |                                  |
+| `return_value`                         | 设置调用 Mock 对象时的返回值                                      | `mock.get.return_value = 200`    |
+| `side_effect`                          | 设置调用时的副作用（异常、多返回值、函数）                                  | `mock.post.side_effect = [1, 2]` |
+| `call_count`                           | 记录被调用的次数（只读）                                           | `print(mock.call_count)`         |
+| `called`                               | 是否被调用过（只读）                                             | `if mock.called:`                |
+| `call_args`                            | 最后一次调用的参数（只读）                                          | `mock.call_args`                 |
+| `call_args_list`                       | 所有调用记录（只读）                                             | `mock.call_args_list`            |
+| `method_calls`                         | 所有方法调用记录（只读）                                           | `mock.method_calls`              |
+| `reset_mock()`                         | 清空调用记录                                                 | `mock.reset_mock()`              |
+| now_time.strftime("%Y-%m-%d %H:%M:%S") | 格式化时间                                                  |                                  |
+| sys.stdout.flush()                     |                                                        |                                  |
 ## @staticmethod
 
 @staticmethod 是 Python 的静态方法装饰器，表示这个方法不需要访问实例属性或类属性

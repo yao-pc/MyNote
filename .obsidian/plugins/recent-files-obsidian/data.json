@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python笔记",
+      "path": "python/python笔记.md"
+    },
+    {
       "basename": "解决令牌推送失败问题",
       "path": "note03_GIT/解决令牌推送失败问题.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "代码",
       "path": "note02_代码/代码.md"
-    },
-    {
-      "basename": "python笔记",
-      "path": "python/python笔记.md"
     },
     {
       "basename": "居左显示",
