@@ -13,6 +13,10 @@ git reset --hard origin/<branch-name>
 ```
 **清理未跟踪的文件**  
 完成上面两步后，本地仓库的文件和提交历史已与远程一致。`git reset --hard` 不会删除你本地新建的、尚未被 Git 跟踪的文件。这些文件可能包括 IDE 配置、编译产物等。如果你需要清理它们，可以使用 `git clean`
+```python
 git clean -fd
+```
 如果想连 `.gitignore` 中忽略的文件（如编译缓存）也一并删除，可以加上 `-x` 参数
+```python
 git clean -fdx
+```

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git如何撤回已经push的代码",
+      "path": "note03_GIT/git如何撤回已经push的代码.md"
+    },
+    {
       "basename": "git强制和远程主分支同步",
       "path": "note03_GIT/git强制和远程主分支同步.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "概要",
       "path": "上位机开发/概要.md"
-    },
-    {
-      "basename": "git如何撤回已经push的代码",
-      "path": "note03_GIT/git如何撤回已经push的代码.md"
     },
     {
       "basename": "办公",
