@@ -50,22 +50,7 @@
         "type": "html"
       }
     ],
-    "note03_GIT/GIT拉取分支.md": [
-      {
-        "id": "navhp5xqc",
-        "text": "3",
-        "tags": [],
-        "line": 77,
-        "startOffset": 1219,
-        "endOffset": 1224,
-        "filePath": "note03_GIT/GIT拉取分支.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1786621161296,
-        "isNativeComment": false,
-        "type": "highlight"
-      }
-    ]
+    "note03_GIT/GIT拉取分支.md": []
   },
   "collections": {},
   "groupingMode": "none",

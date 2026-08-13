@@ -33,7 +33,7 @@ git clone -b 分支名 http://code.sigenpower.com:9092/xxx
 
 ## 更新本地，切换到基础分支
 
-```
+```python
 #拉取远程最新所有分支信息
 git fetch origin
 
@@ -75,4 +75,3 @@ git push -u origin my-dev-branch
 执行完，刷新你的 git 网页仓库，分支列表里面就能看到你新建的远程分支 `my-dev-branch`。
 
 
-==3==

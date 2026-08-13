@@ -1,9 +1,9 @@
 {
-  "customBgColor": true,
-  "customRadius": false,
+  "customBgColor": false,
+  "customRadius": true,
   "customPadding": false,
   "showHeaderSeparator": false,
-  "codeBlockPreset": "none",
+  "codeBlockPreset": "vscode",
   "codeBlockRadius": 10,
   "codeBlockPaddingLeft": 20,
   "codeBlockPaddingRight": 20,

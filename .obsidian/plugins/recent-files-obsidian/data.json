@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GIT拉取分支",
-      "path": "note03_GIT/GIT拉取分支.md"
+      "basename": "git强制和远程主分支同步",
+      "path": "note03_GIT/git强制和远程主分支同步.md"
     },
     {
-      "basename": "GIT",
-      "path": "note03_GIT/GIT.md"
+      "basename": "GIT+Obsidian",
+      "path": "note03_GIT/GIT+Obsidian.md"
+    },
+    {
+      "basename": "GIT拉取分支",
+      "path": "note03_GIT/GIT拉取分支.md"
     },
     {
       "basename": "git如何将本地代码推送到指定分支上",
