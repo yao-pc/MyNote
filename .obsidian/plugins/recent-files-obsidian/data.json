@@ -5,12 +5,12 @@
       "path": "note03_GIT/GIT拉取分支.md"
     },
     {
-      "basename": "git如何将本地代码推送到指定分支上",
-      "path": "note03_GIT/git如何将本地代码推送到指定分支上.md"
-    },
-    {
       "basename": "GIT",
       "path": "note03_GIT/GIT.md"
+    },
+    {
+      "basename": "git如何将本地代码推送到指定分支上",
+      "path": "note03_GIT/git如何将本地代码推送到指定分支上.md"
     },
     {
       "basename": "解决令牌推送失败问题",

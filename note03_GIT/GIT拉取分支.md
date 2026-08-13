@@ -9,13 +9,14 @@ git clone http://code.sigenpower.com:9092/xxx
 
 ## 方式 2：clone 之后切换分支
 
-```
+```python
 # 1.克隆整个仓库
 git clone http://code.sigenpower.com:9092/xxx
 cd 项目文件夹
 
 # 2.查看所有远程分支
 git branch -r
+git remote show origin
 
 # 3.切换到你想要的分支，这时候代码就变成该分支内容
 git checkout 分支名
@@ -72,3 +73,6 @@ git push -u origin my-dev-branch
 > `-u origin my-dev-branch`：设置本地分支和远程分支关联，以后 git push 直接推送，不用写完整命令
 
 执行完，刷新你的 git 网页仓库，分支列表里面就能看到你新建的远程分支 `my-dev-branch`。
+
+
+==3==
