@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GIT推送后发现问题解决方法",
+      "path": "note03_GIT/GIT推送后发现问题解决方法.md"
+    },
+    {
       "basename": "git如何撤回已经push的代码",
       "path": "note03_GIT/git如何撤回已经push的代码.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "note00_代办",
       "path": "note00_代办.md"
-    },
-    {
-      "basename": "GIT推送后发现问题解决方法",
-      "path": "note03_GIT/GIT推送后发现问题解决方法.md"
     },
     {
       "basename": "草稿",
