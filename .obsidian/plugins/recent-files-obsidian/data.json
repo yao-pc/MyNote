@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "解决令牌推送失败问题",
+      "path": "note03_GIT/解决令牌推送失败问题.md"
+    },
+    {
       "basename": "GIT拉取分支",
       "path": "note03_GIT/GIT拉取分支.md"
     },
     {
       "basename": "GIT+Obsidian",
       "path": "note03_GIT/GIT+Obsidian.md"
-    },
-    {
-      "basename": "解决令牌推送失败问题",
-      "path": "note03_GIT/解决令牌推送失败问题.md"
     },
     {
       "basename": "git如何撤回已经push的代码",
