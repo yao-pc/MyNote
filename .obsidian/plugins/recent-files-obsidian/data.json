@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "python笔记",
+      "path": "python/python笔记.md"
+    },
+    {
+      "basename": "Pycharm快捷键",
+      "path": "python/Pycharm快捷键.md"
+    },
+    {
+      "basename": "note00_待办",
+      "path": "note00_待办.md"
+    },
+    {
       "basename": "解决令牌推送失败问题",
       "path": "note03_GIT/解决令牌推送失败问题.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "git如何将本地代码推送到指定分支上",
       "path": "note03_GIT/git如何将本地代码推送到指定分支上.md"
-    },
-    {
-      "basename": "python笔记",
-      "path": "python/python笔记.md"
-    },
-    {
-      "basename": "note00_代办",
-      "path": "note00_代办.md"
     },
     {
       "basename": "草稿",
@@ -79,10 +83,6 @@
     {
       "basename": "数据库",
       "path": "数据库.base"
-    },
-    {
-      "basename": "Pycharm快捷键",
-      "path": "python/Pycharm快捷键.md"
     },
     {
       "basename": "obsidian笔记如何关联git仓库",

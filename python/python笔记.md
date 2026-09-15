@@ -17,37 +17,22 @@
 | sys.stdout.flush()                     | 强制把输出缓冲区的内容立即写到终端/文件，不等缓冲区满或程序结束。                      |                                  |
 |                                        |                                                        |                                  |
 ## @staticmethod
-
-@staticmethod 是 Python 的静态方法装饰器，表示这个方法不需要访问实例属性或类属性
-
+@staticmethod 是 Python 的<mark style="background:#b1ffff">静态方法</mark>装饰器，表示这个方法不需要访问==实例属性==或==类属性==
 特点：
-
 ❌ 不访问 self (实例属性)
-
 ❌ 不访问 cls (类属性)
-
 ✅ 只是恰好放在类中的普通函数
-
 📞 调用方式：CommonFunction.hex_list([1,2,3]) 或 obj.hex_list([1,2,3])
 
-非静态方法装饰器函数必须先创建实例才能调用
-
+非静态方法装饰器函数必须<mark style="background:#b1ffff">先创建实例</mark>才能调用
 obj = CommonFunction()
-
 result = obj.hex_list([7, 12, 56])
-
 #### @classmethod
-
 类方法 (@classmethod)
-
 特点：
-
 ❌ 不访问 self (实例属性)
-
 ✅ 访问 cls (类属性，如 table_crc_hi, table_crc_lo)
-
 📞 调用方式：CommonFunction.crc_16([0 x 01, 0 x 02])
-
 CommonFunction.crc_16([0 x 01, 0 x 02, 0 x 03]) # 内部使用 cls.table_crc_hi/lo
 
 #### 实例方法 (无装饰器)

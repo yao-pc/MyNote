@@ -50,7 +50,67 @@
         "type": "html"
       }
     ],
-    "note03_GIT/GIT拉取分支.md": []
+    "note03_GIT/GIT拉取分支.md": [],
+    "python/python笔记.md": [
+      {
+        "id": "w3bcazat8",
+        "text": "静态方法",
+        "tags": [],
+        "line": 19,
+        "startOffset": 2471,
+        "endOffset": 2515,
+        "filePath": "python/python笔记.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1789437570083,
+        "isNativeComment": false,
+        "color": "#ffff00",
+        "type": "html"
+      },
+      {
+        "id": "hex8abmn8",
+        "text": "实例属性",
+        "tags": [],
+        "line": 19,
+        "startOffset": 2530,
+        "endOffset": 2538,
+        "filePath": "python/python笔记.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1786428123880,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "x3jmlgnhy",
+        "text": "类属性",
+        "tags": [],
+        "line": 19,
+        "startOffset": 2539,
+        "endOffset": 2546,
+        "filePath": "python/python笔记.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1789436851023,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "ggskvse75",
+        "text": "先创建实例",
+        "tags": [],
+        "line": 26,
+        "startOffset": 2679,
+        "endOffset": 2724,
+        "filePath": "python/python笔记.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1789436858413,
+        "isNativeComment": false,
+        "color": "#ffff00",
+        "type": "html"
+      }
+    ]
   },
   "collections": {},
   "groupingMode": "none",
