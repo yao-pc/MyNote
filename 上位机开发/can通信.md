@@ -66,43 +66,34 @@ CAN 有五类错误：
 
 - 位错误、填充错误、CRC 错误、格式错误、应答错误
     
-
 每个节点维护两个计数器：
 
 - **TEC**（发送错误计数）
-    
 - **REC**（接收错误计数）
     
 
 状态机：
 
 - **错误主动**（Error Active）：正常状态
-    
 - **错误被动**（Error Passive）：计数超阈值，发送错误被动帧
-    
 - **总线关闭**（Bus Off）：TEC > 255，节点自动脱离总线
     
 
 ## 六、CAN FD 与 CAN XL
 
 - **CAN FD**（Flexible Data-rate）：数据段可切换更高速率，数据长度最大 64 字节，CRC 更强
-    
 - **CAN XL**：面向更高数据量，最大 2048 字节，速率可达 10 Mbps 以上
     
 
 ## 七、典型应用
 
 - **汽车**：ECU 通信、车身控制、动力总成、诊断（OBD-II）
-    
 - **工业**：PLC、电机驱动、传感器网络
-    
 - **其他**：医疗设备、船舶、电梯控制
     
 
 ## 八、开发常用工具
 
 - **硬件**：PCAN、Kvaser、周立功 CAN 卡、USB-CAN 分析仪
-    
 - **软件**：CANoe、CANalyzer、SavvyCAN、candump/cansend（Linux SocketCAN）
-    
 - **MCU**：STM 32 bxCAN/FDCAN、ESP 32 TWAI、NXP S 32 K 等

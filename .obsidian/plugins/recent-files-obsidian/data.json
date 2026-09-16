@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python笔记",
+      "path": "python/python笔记.md"
+    },
+    {
       "basename": "can通信",
       "path": "上位机开发/can通信.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "办公",
       "path": "办公.md"
-    },
-    {
-      "basename": "python笔记",
-      "path": "python/python笔记.md"
     },
     {
       "basename": "Pycharm快捷键",
