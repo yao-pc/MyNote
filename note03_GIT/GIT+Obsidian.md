@@ -40,6 +40,10 @@ git branch -M main
 git push -u origin main
 ```
 
+### 查看远端仓库名称和 URL
+~~~python
+git remote -v
+~~~
 
 ### git查看当前用户的配置
 ```python
