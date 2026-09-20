@@ -109,36 +109,6 @@
         "isNativeComment": false,
         "color": "#ffff00",
         "type": "html"
-      },
-      {
-        "id": "p45sbkhx7",
-        "text": "{num:.2 f}",
-        "tags": [],
-        "line": 48,
-        "startOffset": 3358,
-        "endOffset": 3408,
-        "filePath": "python/python笔记.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1789438395548,
-        "isNativeComment": false,
-        "color": "#ffff00",
-        "type": "html"
-      },
-      {
-        "id": "px9xs6j0k",
-        "text": ".format",
-        "tags": [],
-        "line": 49,
-        "startOffset": 3438,
-        "endOffset": 3485,
-        "filePath": "python/python笔记.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1789438494284,
-        "isNativeComment": false,
-        "color": "#ffff00",
-        "type": "html"
       }
     ],
     "python/VSCode快捷键.md": []
