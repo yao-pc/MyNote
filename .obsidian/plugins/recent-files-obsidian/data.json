@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "important",
+      "path": "important/important.md"
+    },
+    {
+      "basename": "2026-08-03 NEO自杀信号检测流程优化",
+      "path": "上位机开发/2026-08-03 NEO自杀信号检测流程优化.md"
+    },
+    {
+      "basename": "PLC控制",
+      "path": "上位机开发/PLC控制.md"
+    },
+    {
       "basename": "密码",
       "path": "important/密码.md"
     },
     {
       "basename": "file-20260808172612869",
       "path": "note03_GIT/assets/解决令牌推送失败问题/file-20260808172612869.png"
-    },
-    {
-      "basename": "PLC控制",
-      "path": "上位机开发/PLC控制.md"
     },
     {
       "basename": "python笔记",
@@ -47,10 +55,6 @@
     {
       "basename": "未命名",
       "path": "上位机开发/未命名.md"
-    },
-    {
-      "basename": "2026-08-03 NEO自杀信号检测流程优化",
-      "path": "上位机开发/2026-08-03 NEO自杀信号检测流程优化.md"
     },
     {
       "basename": "办公",
@@ -111,10 +115,6 @@
     {
       "basename": "拓展插件",
       "path": "Obsidian/拓展插件.md"
-    },
-    {
-      "basename": "important",
-      "path": "important/important.md"
     }
   ],
   "omittedPaths": [],
