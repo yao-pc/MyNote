@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "密码",
+      "path": "important/密码.md"
+    },
+    {
+      "basename": "AI",
+      "path": "AI.md"
+    },
+    {
       "basename": "git简洁化处理",
       "path": "note03_GIT/git简洁化处理.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "PLC控制",
       "path": "上位机开发/PLC控制.md"
-    },
-    {
-      "basename": "密码",
-      "path": "important/密码.md"
     },
     {
       "basename": "file-20260808172612869",
