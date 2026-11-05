@@ -31,3 +31,6 @@ B.5，所有中转模型**每人每月限额 100 美金，超额可在以上流�
 B.6，实际用量查看路径：
 
 ![868](assets/AI/file-20261105103603046.jpg)
+
+
+原因是 CCSwitch 里 Codex 上游地址的路径配置错了：原来指向 https://sigen-api.sigenergy.com/ui，这是网页入口，不是 API 接口。Codex 用 POST /responses 请求模型时，Nginx 在 /ui 路径返回 405 Method Not Allowed。改为 API 地址 https://sigen-api.sigenergy.com/v1 后，请求就到达了正确的 API 服务，所以恢复正常。wire_api 应保持 responses；
